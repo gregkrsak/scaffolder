@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/radio_button.svg-35cf0f5af1c8f2c16a9c103953efd177.stex"
+path="res://.import/radio_button.svg-26c5a09708d20dcff2772a51eae39902.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://addons/scaffolder/assets/images/gui/radio_button/radio_button.svg"
-dest_files=[ "res://.import/radio_button.svg-35cf0f5af1c8f2c16a9c103953efd177.stex" ]
+source_file="res://godot-addons-as-submodules/scaffolder/assets/images/gui/radio_button/radio_button.svg"
+dest_files=[ "res://.import/radio_button.svg-26c5a09708d20dcff2772a51eae39902.stex" ]
 
 [params]
 

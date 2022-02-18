@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/tree_arrow_closed_8.png-d2b256a938e78103271a3c9ebdcf15b0.stex"
+path="res://.import/tree_arrow_closed_8.png-c264e35c677d55095137b81c0766182b.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://addons/scaffolder/assets/images/gui/tree_arrow/tree_arrow_closed_8.png"
-dest_files=[ "res://.import/tree_arrow_closed_8.png-d2b256a938e78103271a3c9ebdcf15b0.stex" ]
+source_file="res://godot-addons-as-submodules/scaffolder/assets/images/gui/tree_arrow/tree_arrow_closed_8.png"
+dest_files=[ "res://.import/tree_arrow_closed_8.png-c264e35c677d55095137b81c0766182b.stex" ]
 
 [params]
 

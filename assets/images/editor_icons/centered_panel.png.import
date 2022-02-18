@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/centered_panel.png-9b05bced1e05359dcec4888332efbafb.stex"
+path="res://.import/centered_panel.png-d51579a6deeb0d46b32b6a9c717714b5.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://addons/scaffolder/assets/images/editor_icons/centered_panel.png"
-dest_files=[ "res://.import/centered_panel.png-9b05bced1e05359dcec4888332efbafb.stex" ]
+source_file="res://godot-addons-as-submodules/scaffolder/assets/images/editor_icons/centered_panel.png"
+dest_files=[ "res://.import/centered_panel.png-d51579a6deeb0d46b32b6a9c717714b5.stex" ]
 
 [params]
 

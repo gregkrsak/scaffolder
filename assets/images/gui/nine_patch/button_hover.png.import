@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/button_hover.png-23ab606352884836299d763368a22223.stex"
+path="res://.import/button_hover.png-a101629a46402ba511d21d074e7d1e3f.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://addons/scaffolder/assets/images/gui/nine_patch/button_hover.png"
-dest_files=[ "res://.import/button_hover.png-23ab606352884836299d763368a22223.stex" ]
+source_file="res://godot-addons-as-submodules/scaffolder/assets/images/gui/nine_patch/button_hover.png"
+dest_files=[ "res://.import/button_hover.png-a101629a46402ba511d21d074e7d1e3f.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/radio_button_checked_128.png-04944dc5593c36335b5413d237abc386.stex"
+path="res://.import/radio_button_checked_128.png-6a49d98db1e4e724dcd3d45660074242.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://addons/scaffolder/assets/images/gui/radio_button_pixel/radio_button_checked_128.png"
-dest_files=[ "res://.import/radio_button_checked_128.png-04944dc5593c36335b5413d237abc386.stex" ]
+source_file="res://godot-addons-as-submodules/scaffolder/assets/images/gui/radio_button_pixel/radio_button_checked_128.png"
+dest_files=[ "res://.import/radio_button_checked_128.png-6a49d98db1e4e724dcd3d45660074242.stex" ]
 
 [params]
 

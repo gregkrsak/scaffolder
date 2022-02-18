@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/full_screen_panel.png-ab1dce6bc633d46265f7e09eb8a05471.stex"
+path="res://.import/full_screen_panel.png-86fdd16aea0fc5e65e24c584017af1b8.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://addons/scaffolder/assets/images/editor_icons/full_screen_panel.png"
-dest_files=[ "res://.import/full_screen_panel.png-ab1dce6bc633d46265f7e09eb8a05471.stex" ]
+source_file="res://godot-addons-as-submodules/scaffolder/assets/images/editor_icons/full_screen_panel.png"
+dest_files=[ "res://.import/full_screen_panel.png-86fdd16aea0fc5e65e24c584017af1b8.stex" ]
 
 [params]
 

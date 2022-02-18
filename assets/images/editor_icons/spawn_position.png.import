@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/spawn_position.png-e2f05e5b03c472d12007d98d524a9048.stex"
+path="res://.import/spawn_position.png-8077460470fc35f1ade4af56f330d067.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://addons/scaffolder/assets/images/editor_icons/spawn_position.png"
-dest_files=[ "res://.import/spawn_position.png-e2f05e5b03c472d12007d98d524a9048.stex" ]
+source_file="res://godot-addons-as-submodules/scaffolder/assets/images/editor_icons/spawn_position.png"
+dest_files=[ "res://.import/spawn_position.png-8077460470fc35f1ade4af56f330d067.stex" ]
 
 [params]
 

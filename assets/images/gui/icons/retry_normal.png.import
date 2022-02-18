@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/retry_normal.png-a140fe2b470fb5f0ce08fe9cb15be20c.stex"
+path="res://.import/retry_normal.png-7b277549f5bb570bccc125e2b1a36f1a.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://addons/scaffolder/assets/images/gui/icons/retry_normal.png"
-dest_files=[ "res://.import/retry_normal.png-a140fe2b470fb5f0ce08fe9cb15be20c.stex" ]
+source_file="res://godot-addons-as-submodules/scaffolder/assets/images/gui/icons/retry_normal.png"
+dest_files=[ "res://.import/retry_normal.png-7b277549f5bb570bccc125e2b1a36f1a.stex" ]
 
 [params]
 

@@ -2,12 +2,12 @@
 
 importer="wav"
 type="AudioStreamSample"
-path="res://.import/on_a_quest.wav-89ce0fec8477f9699717d0e256f8e0c4.sample"
+path="res://.import/on_a_quest.wav-72a3914262c8291ed3a92560891ae62c.sample"
 
 [deps]
 
-source_file="res://addons/scaffolder/assets/music/on_a_quest.wav"
-dest_files=[ "res://.import/on_a_quest.wav-89ce0fec8477f9699717d0e256f8e0c4.sample" ]
+source_file="res://godot-addons-as-submodules/scaffolder/assets/music/on_a_quest.wav"
+dest_files=[ "res://.import/on_a_quest.wav-72a3914262c8291ed3a92560891ae62c.sample" ]
 
 [params]
 

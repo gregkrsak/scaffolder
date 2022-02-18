@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/circle_gradient_1024.png-4f3315de27a215bb916c0c69e996cb86.stex"
+path="res://.import/circle_gradient_1024.png-8301964134d86a6741bc17f88b48a81b.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://addons/scaffolder/assets/images/misc/circle_gradient_1024.png"
-dest_files=[ "res://.import/circle_gradient_1024.png-4f3315de27a215bb916c0c69e996cb86.stex" ]
+source_file="res://godot-addons-as-submodules/scaffolder/assets/images/misc/circle_gradient_1024.png"
+dest_files=[ "res://.import/circle_gradient_1024.png-8301964134d86a6741bc17f88b48a81b.stex" ]
 
 [params]
 

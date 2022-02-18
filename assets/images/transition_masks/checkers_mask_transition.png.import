@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/checkers_mask_transition.png-3c4200f0458ea307c2fd0c2f26a35def.stex"
+path="res://.import/checkers_mask_transition.png-19516fa1363b6cf3e704628832f27cfc.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://addons/scaffolder/assets/images/transition_masks/checkers_mask_transition.png"
-dest_files=[ "res://.import/checkers_mask_transition.png-3c4200f0458ea307c2fd0c2f26a35def.stex" ]
+source_file="res://godot-addons-as-submodules/scaffolder/assets/images/transition_masks/checkers_mask_transition.png"
+dest_files=[ "res://.import/checkers_mask_transition.png-19516fa1363b6cf3e704628832f27cfc.stex" ]
 
 [params]
 

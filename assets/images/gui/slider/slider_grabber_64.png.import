@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/slider_grabber_64.png-6283b5eff19b8fef10c2c7c1a538b6d3.stex"
+path="res://.import/slider_grabber_64.png-6c8fb4be6f847b81906542bb24d57d9a.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://addons/scaffolder/assets/images/gui/slider/slider_grabber_64.png"
-dest_files=[ "res://.import/slider_grabber_64.png-6283b5eff19b8fef10c2c7c1a538b6d3.stex" ]
+source_file="res://godot-addons-as-submodules/scaffolder/assets/images/gui/slider/slider_grabber_64.png"
+dest_files=[ "res://.import/slider_grabber_64.png-6c8fb4be6f847b81906542bb24d57d9a.stex" ]
 
 [params]
 

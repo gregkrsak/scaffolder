@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/accordion_panel_64.png-eaf22db9be0c2ebca9a61f35ba2da6ad.stex"
+path="res://.import/accordion_panel_64.png-6a814921fa382ff98a30eb15c44d9930.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://addons/scaffolder/assets/images/editor_icons/accordion_panel_64.png"
-dest_files=[ "res://.import/accordion_panel_64.png-eaf22db9be0c2ebca9a61f35ba2da6ad.stex" ]
+source_file="res://godot-addons-as-submodules/scaffolder/assets/images/editor_icons/accordion_panel_64.png"
+dest_files=[ "res://.import/accordion_panel_64.png-6a814921fa382ff98a30eb15c44d9930.stex" ]
 
 [params]
 

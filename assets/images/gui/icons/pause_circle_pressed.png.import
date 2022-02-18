@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/pause_circle_pressed.png-bf09c2cdcb75675ba9f7e08c76af79c6.stex"
+path="res://.import/pause_circle_pressed.png-63cac8cefde263d3db5c85b484f65c4b.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://addons/scaffolder/assets/images/gui/icons/pause_circle_pressed.png"
-dest_files=[ "res://.import/pause_circle_pressed.png-bf09c2cdcb75675ba9f7e08c76af79c6.stex" ]
+source_file="res://godot-addons-as-submodules/scaffolder/assets/images/gui/icons/pause_circle_pressed.png"
+dest_files=[ "res://.import/pause_circle_pressed.png-63cac8cefde263d3db5c85b484f65c4b.stex" ]
 
 [params]
 

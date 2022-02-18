@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/radial_mask_transition_in.png-f4e3f436dcd934a97ea277797a568581.stex"
+path="res://.import/radial_mask_transition_in.png-97fd03e914eafb0b8b7e356295f9aa71.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://addons/scaffolder/assets/images/transition_masks/radial_mask_transition_in.png"
-dest_files=[ "res://.import/radial_mask_transition_in.png-f4e3f436dcd934a97ea277797a568581.stex" ]
+source_file="res://godot-addons-as-submodules/scaffolder/assets/images/transition_masks/radial_mask_transition_in.png"
+dest_files=[ "res://.import/radial_mask_transition_in.png-97fd03e914eafb0b8b7e356295f9aa71.stex" ]
 
 [params]
 

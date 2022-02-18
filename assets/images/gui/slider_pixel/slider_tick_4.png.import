@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/slider_tick_4.png-a03b4b45706d80331ad3b4d68a01f186.stex"
+path="res://.import/slider_tick_4.png-3d3118392910275748cfb1b6fadded46.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://addons/scaffolder/assets/images/gui/slider_pixel/slider_tick_4.png"
-dest_files=[ "res://.import/slider_tick_4.png-a03b4b45706d80331ad3b4d68a01f186.stex" ]
+source_file="res://godot-addons-as-submodules/scaffolder/assets/images/gui/slider_pixel/slider_tick_4.png"
+dest_files=[ "res://.import/slider_tick_4.png-3d3118392910275748cfb1b6fadded46.stex" ]
 
 [params]
 

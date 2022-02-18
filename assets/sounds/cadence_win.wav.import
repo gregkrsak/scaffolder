@@ -2,12 +2,12 @@
 
 importer="wav"
 type="AudioStreamSample"
-path="res://.import/cadence_win.wav-681769bd37443c0c24b0afd3a67b5889.sample"
+path="res://.import/cadence_win.wav-74e7b25b069833a111702d97aef3f782.sample"
 
 [deps]
 
-source_file="res://addons/scaffolder/assets/sounds/cadence_win.wav"
-dest_files=[ "res://.import/cadence_win.wav-681769bd37443c0c24b0afd3a67b5889.sample" ]
+source_file="res://godot-addons-as-submodules/scaffolder/assets/sounds/cadence_win.wav"
+dest_files=[ "res://.import/cadence_win.wav-74e7b25b069833a111702d97aef3f782.sample" ]
 
 [params]
 

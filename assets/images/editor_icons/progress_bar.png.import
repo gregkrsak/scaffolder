@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/progress_bar.png-68a94a3164543b6afb6e5d6b922267d1.stex"
+path="res://.import/progress_bar.png-9d6648558c59f9d354696e5c3a705e71.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://addons/scaffolder/assets/images/editor_icons/progress_bar.png"
-dest_files=[ "res://.import/progress_bar.png-68a94a3164543b6afb6e5d6b922267d1.stex" ]
+source_file="res://godot-addons-as-submodules/scaffolder/assets/images/editor_icons/progress_bar.png"
+dest_files=[ "res://.import/progress_bar.png-9d6648558c59f9d354696e5c3a705e71.stex" ]
 
 [params]
 

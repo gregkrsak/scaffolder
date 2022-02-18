@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/about_circle_normal.png-4dba98abe3d22e2016120b4434459de6.stex"
+path="res://.import/about_circle_normal.png-cd746cc7b4b704a78a0eb390f641e0d3.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://addons/scaffolder/assets/images/gui/icons/about_circle_normal.png"
-dest_files=[ "res://.import/about_circle_normal.png-4dba98abe3d22e2016120b4434459de6.stex" ]
+source_file="res://godot-addons-as-submodules/scaffolder/assets/images/gui/icons/about_circle_normal.png"
+dest_files=[ "res://.import/about_circle_normal.png-cd746cc7b4b704a78a0eb390f641e0d3.stex" ]
 
 [params]
 

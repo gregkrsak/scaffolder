@@ -2,12 +2,12 @@
 
 importer="wav"
 type="AudioStreamSample"
-path="res://.import/single_cat_snore.wav-9812b410ee5b03e67439d7d9cd89b265.sample"
+path="res://.import/single_cat_snore.wav-1d337e5c35ad18c2cf5fd14491bcba39.sample"
 
 [deps]
 
-source_file="res://addons/scaffolder/assets/sounds/single_cat_snore.wav"
-dest_files=[ "res://.import/single_cat_snore.wav-9812b410ee5b03e67439d7d9cd89b265.sample" ]
+source_file="res://godot-addons-as-submodules/scaffolder/assets/sounds/single_cat_snore.wav"
+dest_files=[ "res://.import/single_cat_snore.wav-1d337e5c35ad18c2cf5fd14491bcba39.sample" ]
 
 [params]
 

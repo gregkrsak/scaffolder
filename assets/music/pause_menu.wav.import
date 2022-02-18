@@ -2,12 +2,12 @@
 
 importer="wav"
 type="AudioStreamSample"
-path="res://.import/pause_menu.wav-f6eadf56d324acfcfb23f705b1df9525.sample"
+path="res://.import/pause_menu.wav-1d8af6243e997d129d9ff8c8742258dc.sample"
 
 [deps]
 
-source_file="res://addons/scaffolder/assets/music/pause_menu.wav"
-dest_files=[ "res://.import/pause_menu.wav-f6eadf56d324acfcfb23f705b1df9525.sample" ]
+source_file="res://godot-addons-as-submodules/scaffolder/assets/music/pause_menu.wav"
+dest_files=[ "res://.import/pause_menu.wav-1d8af6243e997d129d9ff8c8742258dc.sample" ]
 
 [params]
 

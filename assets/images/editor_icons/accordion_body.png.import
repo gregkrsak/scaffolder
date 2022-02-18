@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/accordion_body.png-786d29b9bc9c12e1f5c4e29edbc1c8a8.stex"
+path="res://.import/accordion_body.png-31a4d5bcf725a9a394d4248d260cb8fc.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://addons/scaffolder/assets/images/editor_icons/accordion_body.png"
-dest_files=[ "res://.import/accordion_body.png-786d29b9bc9c12e1f5c4e29edbc1c8a8.stex" ]
+source_file="res://godot-addons-as-submodules/scaffolder/assets/images/editor_icons/accordion_body.png"
+dest_files=[ "res://.import/accordion_body.png-31a4d5bcf725a9a394d4248d260cb8fc.stex" ]
 
 [params]
 

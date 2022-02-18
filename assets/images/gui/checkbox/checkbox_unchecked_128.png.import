@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/checkbox_unchecked_128.png-ac1cbebf9165c983fe570fbd525c0c13.stex"
+path="res://.import/checkbox_unchecked_128.png-81a1bcceaf7ca6d31a9bd3df300a5bc5.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://addons/scaffolder/assets/images/gui/checkbox/checkbox_unchecked_128.png"
-dest_files=[ "res://.import/checkbox_unchecked_128.png-ac1cbebf9165c983fe570fbd525c0c13.stex" ]
+source_file="res://godot-addons-as-submodules/scaffolder/assets/images/gui/checkbox/checkbox_unchecked_128.png"
+dest_files=[ "res://.import/checkbox_unchecked_128.png-81a1bcceaf7ca6d31a9bd3df300a5bc5.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/left_caret_hover.png-35dc10dfa63ccbbf3c46953922d935a1.stex"
+path="res://.import/left_caret_hover.png-3d0788e2b95d0d30f54ff8265daffadc.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://addons/scaffolder/assets/images/gui/icons/left_caret_hover.png"
-dest_files=[ "res://.import/left_caret_hover.png-35dc10dfa63ccbbf3c46953922d935a1.stex" ]
+source_file="res://godot-addons-as-submodules/scaffolder/assets/images/gui/icons/left_caret_hover.png"
+dest_files=[ "res://.import/left_caret_hover.png-3d0788e2b95d0d30f54ff8265daffadc.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/shine_line.png-f7e37936eb1a403b8e9bd7e5bd26334a.stex"
+path="res://.import/shine_line.png-d9495d2021770a67e9aa74d36b9a6d8b.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://addons/scaffolder/assets/images/gui/shine_line.png"
-dest_files=[ "res://.import/shine_line.png-f7e37936eb1a403b8e9bd7e5bd26334a.stex" ]
+source_file="res://godot-addons-as-submodules/scaffolder/assets/images/gui/shine_line.png"
+dest_files=[ "res://.import/shine_line.png-d9495d2021770a67e9aa74d36b9a6d8b.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/close_hover.png-5eb2149df41b265428d9878f265e0d36.stex"
+path="res://.import/close_hover.png-437da433c37795ac922247946c9df4ca.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://addons/scaffolder/assets/images/gui/icons/close_hover.png"
-dest_files=[ "res://.import/close_hover.png-5eb2149df41b265428d9878f265e0d36.stex" ]
+source_file="res://godot-addons-as-submodules/scaffolder/assets/images/gui/icons/close_hover.png"
+dest_files=[ "res://.import/close_hover.png-437da433c37795ac922247946c9df4ca.stex" ]
 
 [params]
 

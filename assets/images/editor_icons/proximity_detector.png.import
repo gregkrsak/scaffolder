@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/proximity_detector.png-4f50b6f7a39b7ad8ee461d4ff6d98f38.stex"
+path="res://.import/proximity_detector.png-8ba7296ea0a1ffa1b51c67320c0ffe32.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://addons/scaffolder/assets/images/editor_icons/proximity_detector.png"
-dest_files=[ "res://.import/proximity_detector.png-4f50b6f7a39b7ad8ee461d4ff6d98f38.stex" ]
+source_file="res://godot-addons-as-submodules/scaffolder/assets/images/editor_icons/proximity_detector.png"
+dest_files=[ "res://.import/proximity_detector.png-8ba7296ea0a1ffa1b51c67320c0ffe32.stex" ]
 
 [params]
 

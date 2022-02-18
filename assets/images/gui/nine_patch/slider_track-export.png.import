@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/slider_track-export.png-bdb4529eb76ad96e64e266975082b398.stex"
+path="res://.import/slider_track-export.png-20ec1509456f0d691916e46481b84742.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://addons/scaffolder/assets/images/gui/nine_patch/slider_track-export.png"
-dest_files=[ "res://.import/slider_track-export.png-bdb4529eb76ad96e64e266975082b398.stex" ]
+source_file="res://godot-addons-as-submodules/scaffolder/assets/images/gui/nine_patch/slider_track-export.png"
+dest_files=[ "res://.import/slider_track-export.png-20ec1509456f0d691916e46481b84742.stex" ]
 
 [params]
 

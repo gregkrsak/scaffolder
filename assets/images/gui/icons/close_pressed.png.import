@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/close_pressed.png-f9a5963852d8e76913e1ba73a7093982.stex"
+path="res://.import/close_pressed.png-de51e87f2c627de8e543710a2f547ff9.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://addons/scaffolder/assets/images/gui/icons/close_pressed.png"
-dest_files=[ "res://.import/close_pressed.png-f9a5963852d8e76913e1ba73a7093982.stex" ]
+source_file="res://godot-addons-as-submodules/scaffolder/assets/images/gui/icons/close_pressed.png"
+dest_files=[ "res://.import/close_pressed.png-de51e87f2c627de8e543710a2f547ff9.stex" ]
 
 [params]
 

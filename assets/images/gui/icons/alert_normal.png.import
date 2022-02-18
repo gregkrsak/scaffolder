@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/alert_normal.png-09255cf4cdd59828d65d40d6da6937db.stex"
+path="res://.import/alert_normal.png-a58fe2e240905b2026b3fb6cb268d040.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://addons/scaffolder/assets/images/gui/icons/alert_normal.png"
-dest_files=[ "res://.import/alert_normal.png-09255cf4cdd59828d65d40d6da6937db.stex" ]
+source_file="res://godot-addons-as-submodules/scaffolder/assets/images/gui/icons/alert_normal.png"
+dest_files=[ "res://.import/alert_normal.png-a58fe2e240905b2026b3fb6cb268d040.stex" ]
 
 [params]
 

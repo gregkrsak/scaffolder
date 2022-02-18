@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/spacer.png-3e5c279925b5e2f40e99bd5fbd0ebaf0.stex"
+path="res://.import/spacer.png-7a6d2ab824b5f2b90ab2b7a189012823.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://addons/scaffolder/assets/images/editor_icons/spacer.png"
-dest_files=[ "res://.import/spacer.png-3e5c279925b5e2f40e99bd5fbd0ebaf0.stex" ]
+source_file="res://godot-addons-as-submodules/scaffolder/assets/images/editor_icons/spacer.png"
+dest_files=[ "res://.import/spacer.png-7a6d2ab824b5f2b90ab2b7a189012823.stex" ]
 
 [params]
 

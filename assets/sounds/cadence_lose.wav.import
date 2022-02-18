@@ -2,12 +2,12 @@
 
 importer="wav"
 type="AudioStreamSample"
-path="res://.import/cadence_lose.wav-58c72eaff6078471461e509cc9827dd1.sample"
+path="res://.import/cadence_lose.wav-d64a9a443e2aa3d132f99284d1c66cfc.sample"
 
 [deps]
 
-source_file="res://addons/scaffolder/assets/sounds/cadence_lose.wav"
-dest_files=[ "res://.import/cadence_lose.wav-58c72eaff6078471461e509cc9827dd1.sample" ]
+source_file="res://godot-addons-as-submodules/scaffolder/assets/sounds/cadence_lose.wav"
+dest_files=[ "res://.import/cadence_lose.wav-d64a9a443e2aa3d132f99284d1c66cfc.sample" ]
 
 [params]
 

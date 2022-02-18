@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/scroll_grabber_hover.png-1550ff2ffbef7978761d9e9b705575aa.stex"
+path="res://.import/scroll_grabber_hover.png-58a5f581f6672cd1d7d103cc907fbb3c.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://addons/scaffolder/assets/images/gui/nine_patch/scroll_grabber_hover.png"
-dest_files=[ "res://.import/scroll_grabber_hover.png-1550ff2ffbef7978761d9e9b705575aa.stex" ]
+source_file="res://godot-addons-as-submodules/scaffolder/assets/images/gui/nine_patch/scroll_grabber_hover.png"
+dest_files=[ "res://.import/scroll_grabber_hover.png-58a5f581f6672cd1d7d103cc907fbb3c.stex" ]
 
 [params]
 

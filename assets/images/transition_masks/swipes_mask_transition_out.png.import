@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/swipes_mask_transition_out.png-24acabcdf485ce34d520c5b8fa3dd58c.stex"
+path="res://.import/swipes_mask_transition_out.png-35922d4031277a2a5d6afe4f72a22727.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://addons/scaffolder/assets/images/transition_masks/swipes_mask_transition_out.png"
-dest_files=[ "res://.import/swipes_mask_transition_out.png-24acabcdf485ce34d520c5b8fa3dd58c.stex" ]
+source_file="res://godot-addons-as-submodules/scaffolder/assets/images/transition_masks/swipes_mask_transition_out.png"
+dest_files=[ "res://.import/swipes_mask_transition_out.png-35922d4031277a2a5d6afe4f72a22727.stex" ]
 
 [params]
 

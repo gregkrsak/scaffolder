@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/overlay_panel.png-dab8da4571014df8066b764a29fcac72.stex"
+path="res://.import/overlay_panel.png-488b38be40c83cf5536e334744aa196c.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://addons/scaffolder/assets/images/gui/nine_patch/overlay_panel.png"
-dest_files=[ "res://.import/overlay_panel.png-dab8da4571014df8066b764a29fcac72.stex" ]
+source_file="res://godot-addons-as-submodules/scaffolder/assets/images/gui/nine_patch/overlay_panel.png"
+dest_files=[ "res://.import/overlay_panel.png-488b38be40c83cf5536e334744aa196c.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/dropdown_arrow_32.png-213aec5006b1f3430c9e61d3b6b7da83.stex"
+path="res://.import/dropdown_arrow_32.png-e2a39637eff5e01fd8b7045f8b3f2789.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://addons/scaffolder/assets/images/gui/dropdown_arrow/dropdown_arrow_32.png"
-dest_files=[ "res://.import/dropdown_arrow_32.png-213aec5006b1f3430c9e61d3b6b7da83.stex" ]
+source_file="res://godot-addons-as-submodules/scaffolder/assets/images/gui/dropdown_arrow/dropdown_arrow_32.png"
+dest_files=[ "res://.import/dropdown_arrow_32.png-e2a39637eff5e01fd8b7045f8b3f2789.stex" ]
 
 [params]
 

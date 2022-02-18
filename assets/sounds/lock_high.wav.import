@@ -2,12 +2,12 @@
 
 importer="wav"
 type="AudioStreamSample"
-path="res://.import/lock_high.wav-a613735fccbd192f371005824987f2ab.sample"
+path="res://.import/lock_high.wav-87b60de8e42700b8b3b8f04acfb6c7c6.sample"
 
 [deps]
 
-source_file="res://addons/scaffolder/assets/sounds/lock_high.wav"
-dest_files=[ "res://.import/lock_high.wav-a613735fccbd192f371005824987f2ab.sample" ]
+source_file="res://godot-addons-as-submodules/scaffolder/assets/sounds/lock_high.wav"
+dest_files=[ "res://.import/lock_high.wav-87b60de8e42700b8b3b8f04acfb6c7c6.sample" ]
 
 [params]
 
